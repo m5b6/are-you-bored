@@ -2,7 +2,7 @@
 
 https://are-you-bored.onrender.com/
 
-simple activity generator to kill boredom
+simple activity generator to kill boredom, made out of boredom
 
 star this repo if you are bored
 
