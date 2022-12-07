@@ -1,4 +1,0 @@
-let text = "\n\n1. Gather the necessary supplies: paper, pen, envelope, and a stamp.\n\n2. Brainstorm what you want to say in the letter.\n\n3. Write a salutation at the top of the page, such as “Dear [Name],”\n\n4. Begin your letter with a friendly introduction.\n\n5. Write the body of the letter, expressing your thoughts and feelings.\n\n6. End the letter with a closing, such as “Sincerely,” followed by your name.\n\n7. Sign your name at the bottom of the page.\n\n8. Place the letter in the envelope and seal it.\n\n9. Address the envelope with the recipient’s name and address.\n\n10. Place a stamp on the envelope and mail it."
-//turn text into array separated by \n
-
-console.log(text)
