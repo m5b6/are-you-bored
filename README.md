@@ -1,7 +1,8 @@
-# are-you-bored
-simple activity generator to kill boredom
+# are you bored?
 
-hosted at: https://are-you-bored.onrender.com/
+https://are-you-bored.onrender.com/
+
+simple activity generator to kill boredom
 
 star this repo if you are bored
 
