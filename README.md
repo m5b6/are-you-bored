@@ -5,5 +5,5 @@ hosted at: https://are-you-bored.onrender.com/
 
 star this repo if you are bored
 
-Example:
-![image](https://user-images.githubusercontent.com/77901615/206255607-829483e5-b430-4a75-b787-ae87b1ef2545.png)
+![image](https://user-images.githubusercontent.com/77901615/206255909-5bc1e1b3-872a-4b1f-b4d4-fbb15a254a38.png)
+
