@@ -1,4 +1,4 @@
-const very_safe_api_key = "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"
+const very_safe_api_key = "get_your_own_api_key_from_openai.com_lol"
 
 let button = document.getElementsByClassName("learn-more")[0];
 const options = [
