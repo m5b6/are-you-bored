@@ -1,4 +1,4 @@
-const very_safe_api_key = "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";
+const very_safe_api_key = "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"
 
 let button = document.getElementsByClassName("learn-more")[0];
 const options = [
@@ -101,4 +101,10 @@ button.addEventListener("click", function () {
     });
 });
 
-//post request with headers
+//event listener on keypress
+document.addEventListener("keypress", function (e) {
+    if (e.key === "Enter") {
+        button.click();
+    }
+    })
+
